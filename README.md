@@ -25,3 +25,7 @@ Below is a snippet of what part of SLD code looks like...
 </Rule>```
 
 And below is an example of the output...
+<p align="center">
+  <img src="Geoserver_SLD-s/SLD_ExampleOutput.png="350"/>
+  <img src="Geoserver_SLD-s/SLD_ExampleOutput.png" width="350"/>
+</p>
