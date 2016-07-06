@@ -22,8 +22,8 @@ Below is a snippet of what part of SLD code looks like...
 <CssParameter name="stroke-linejoin">bevel</CssParameter>
 </Stroke>
 </PolygonSymbolizer>
-</Rule>```
-
+</Rule>
+```
 And below is an example of the output...
 <p align="center">
   <img src="Geoserver_SLD-s/SLD_ExampleOutput.png="350"/>
