@@ -1,4 +1,4 @@
-# Geoserver_SLD-s
+# Geoserver SLDs!
 Some SLD's I have been creating for features hosted on our Geoshape instance, via Geoserver. 
 
 Below is a snippet of what part of SLD code looks like... 
