@@ -1,7 +1,7 @@
 # Geoserver SLDs!
 Some SLD's I have been creating for features hosted on our Geoshape instance, via Geoserver. 
 
-Below is a snippet of what part of SLD code looks like... 
+Below is a snippet of what one rule of an SLD code looks like, in this case we are defining a specific polygon feature class attribute, by color. 
 
 ```<Rule>
 <Name>PI Low - MPI Low</Name>
