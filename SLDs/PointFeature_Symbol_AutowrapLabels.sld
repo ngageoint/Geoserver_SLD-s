@@ -52,4 +52,8 @@
 			</FeatureTypeStyle>
 		</UserStyle>
 	</NamedLayer>
+<<<<<<< HEAD
 </StyledLayerDescriptor>
+=======
+</StyledLayerDescriptor>
+>>>>>>> origin/master
