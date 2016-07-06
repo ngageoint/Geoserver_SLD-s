@@ -29,3 +29,4 @@ And below is an example of the output...
   <img src="Geoserver_SLD-s/SLD_ExampleOutput.png="350"/>
   <img src="Geoserver_SLD-s/SLD_ExampleOutput.png" width="350"/>
 </p>
+![Alt text](Geoserver_SLD-s/SLD_ExampleOutput.png?raw=true "Title")
