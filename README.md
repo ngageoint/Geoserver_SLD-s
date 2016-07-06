@@ -25,8 +25,4 @@ Below is a snippet of what part of SLD code looks like...
 </Rule>
 ```
 And below is an example of the output...
-<p align="center">
-  <img src="Geoserver_SLD-s/SLD_ExampleOutput.png="350"/>
-  <img src="Geoserver_SLD-s/SLD_ExampleOutput.png" width="350"/>
-</p>
-![Alt text](Geoserver_SLD-s/SLD_ExampleOutput.png?raw=true "Title")
+![Alt text](https://github.com/Nickgis/Geoserver_SLD-s/blob/master/SLD_ExampleOutput.png?raw=true "Sample")
