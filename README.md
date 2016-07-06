@@ -31,6 +31,6 @@ And below is an example of the output...
 Some great online help resources as you work through styling your own SLD's:
 <br>
 GeoServer SLD Cookbook - http://docs.geoserver.org/stable/en/user/styling/sld-cookbook/
-
+<br>
 GeoSolutions Styling with SLD - http://geoserver.geo-solutions.it/edu/en/pretty_maps/styling.html
 
