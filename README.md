@@ -26,7 +26,7 @@ This is a space for SLD's I have been creating for features hosted on our Geosha
 ```
 <B>And below is an example of the output...</B>
 
-![Sample SLD Output](https://github.com/Nickgis/Geoserver_SLD-s/blob/master/SLD_ExampleOutput.png?raw=true "Sample")
+![Sample SLD Output](https://github.com/ngageoint/Geoserver_SLD-s/blob/master/SLD_ExampleOutput.png?raw=true "Sample")
 
 <B>Some great online help resources as you work through styling your own SLD's:</B>
 <br>
