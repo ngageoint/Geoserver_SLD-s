@@ -28,7 +28,7 @@ And below is an example of the output...
 
 ![Sample SLD Output](https://github.com/Nickgis/Geoserver_SLD-s/blob/master/SLD_ExampleOutput.png?raw=true "Sample")
 
-Some great online help resources as you work through styling your own SLD's:
+<BOL>Some great online help resources as you work through styling your own SLD's:</BOL>
 <br>
 GeoServer SLD Cookbook - http://docs.geoserver.org/stable/en/user/styling/sld-cookbook/
 <br>
