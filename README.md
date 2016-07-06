@@ -1,5 +1,5 @@
 # Geoserver SLDs!
-Some SLD's I have been creating for features hosted on our Geoshape instance, via Geoserver. 
+Some SLD's I have been creating for features hosted on our Geoshape instance, via Geoserver. When serving features out of Geoserver via WMS, or for use in GeoNode/Geoshape, symbology can be set at the server level using SLD's so that the features are accessed by the end user while already symbolized accordingly. Though these SLD's are coded specifically for my features, I am providing the code here, because they may be useful to others as templates for their own work. 
 
 Below is a snippet of what one rule of an SLD code looks like, in this case we are defining a specific attribute, by color. 
 
