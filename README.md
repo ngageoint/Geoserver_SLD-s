@@ -33,3 +33,7 @@ This is a space for SLD's I have been creating for features hosted on our Geosha
 GeoServer SLD Cookbook - http://docs.geoserver.org/stable/en/user/styling/sld-cookbook/
 <br>
 GeoSolutions Styling with SLD - http://geoserver.geo-solutions.it/edu/en/pretty_maps/styling.html
+<<<<<<< HEAD
+=======
+
+>>>>>>> refs/remotes/Nickgis/master
