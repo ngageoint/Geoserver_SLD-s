@@ -1,7 +1,7 @@
 # Geoserver Styled Layer Descriptors (SLDs)...
 This is a space for SLD's I have been creating for features hosted on our Geoshape instance, via Geoserver. There are some excellent online resources for building your own linked at the bottom of this readme, but I figured I would start posting SLD's here for ease of use as other users might be looking for a template for their own features. Though these SLD's are coded specifically for some generic features, they should be easy to re-tool for your own features if you are just getting going with SLDs. 
 
-Below is a snippet of what one rule in SLD code looks like, in this case we are defining a specific attribute, by color. Naturally this is done for each attribute you want to specify a rule for throughout the entire SLD.  
+<B>Below is a snippet of what one rule in SLD code looks like</B>, in this case we are defining a specific attribute, by color. Naturally this is done for each attribute you want to specify a rule for throughout the entire SLD.  
 
 ```<Rule>
 <Name>PI Low - MPI Low</Name>
@@ -24,7 +24,7 @@ Below is a snippet of what one rule in SLD code looks like, in this case we are 
 </PolygonSymbolizer>
 </Rule>
 ```
-And below is an example of the output...
+<B>And below is an example of the output...</B>
 
 ![Sample SLD Output](https://github.com/Nickgis/Geoserver_SLD-s/blob/master/SLD_ExampleOutput.png?raw=true "Sample")
 
