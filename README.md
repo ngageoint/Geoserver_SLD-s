@@ -27,3 +27,8 @@ Below is a snippet of what one rule of an SLD code looks like, in this case we a
 And below is an example of the output...
 
 ![Sample SLD Output](https://github.com/Nickgis/Geoserver_SLD-s/blob/master/SLD_ExampleOutput.png?raw=true "Sample")
+
+Some great online help resources as you work through styling your own SLD's:
+GeoServer SLD Cookbook - http://docs.geoserver.org/stable/en/user/styling/sld-cookbook/
+GeoSolutions Styling with SLD - http://geoserver.geo-solutions.it/edu/en/pretty_maps/styling.html
+
