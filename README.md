@@ -1,7 +1,7 @@
 # Geoserver_SLD-s
-Some SLD's I havee been creating for features hosted on our Geoshape instance, via Geoserver. 
+Some SLD's I have been creating for features hosted on our Geoshape instance, via Geoserver. 
 
-Below is an example of what SLD code looks like... 
+Below is a snippet of what part of SLD code looks like... 
 
 ```<Rule>
 <Name>PI Low - MPI Low</Name>
