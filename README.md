@@ -25,4 +25,5 @@ Below is a snippet of what part of SLD code looks like...
 </Rule>
 ```
 And below is an example of the output...
-![Alt text](https://github.com/Nickgis/Geoserver_SLD-s/blob/master/SLD_ExampleOutput.png?raw=true "Sample")
+
+![Sample SLD Output](https://github.com/Nickgis/Geoserver_SLD-s/blob/master/SLD_ExampleOutput.png?raw=true "Sample")
